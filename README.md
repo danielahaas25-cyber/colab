@@ -4,9 +4,7 @@ Collection
 ```mermaid
 ---
 config:
-  theme: {{ themeSet }}
-  look: {{ look }}
-  layout: {{ layout }}
+
 ---
 flowchart LR
   subgraph Client
